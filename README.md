@@ -2,8 +2,7 @@
 
 # Dynamo-Project-1
 # Problem statement 
-- while making the chrome extension we force several issues later we realized that there was a typo in the json file 
-While making the navigation bar responsive , we faced several issues like the positioning was a bit off and difficult and flex properties were throwing some errors  
+The new and coming generations of India have little to no knowledge about the history and sacrifices of the heroes of our country hence we created a website and a chrome extension to help create awareness to them.
 
 ## Description 
 - To pay tribute and spread the awareness about our former Chief of Defense as little did the generation know about one the man who sacrificed his life living away from his family in every occasion to protect his COUNTRY, the truth is that we exist because people like them exist, the fact is that they their hand on the finger on the trigger which  is why we can breathe freely  
