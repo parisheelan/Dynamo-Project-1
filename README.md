@@ -7,7 +7,7 @@ While making the navigation bar responsive , we faced several issues like the po
 - To pay tribute and spread the awareness about our former Chief of Defense as little did the generation know about one the man who sacrificed his life living away from his family in every occasion to protect his COUNTRY, the truth is that we exist because people like them exist, the fact is that they their hand on the finger on the trigger which  is why we can breathe freely  
 
 
-#Requirement 
+# Requirement 
 - Computer device, Web browser 
 
 # Technologies 
