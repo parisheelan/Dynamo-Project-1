@@ -13,7 +13,7 @@ While making the navigation bar responsive , we faced several issues like the po
 # Technologies 
 - HTML, CSS, Json Library, Git/GitHub, Chrome extension
 
-Challenges Faced:
+# Challenges Faced:
 
 1)	Used the wrong manifest-version in manifest.json file.
 2)	Used incorrect pixel density for the chrome extension logo.
